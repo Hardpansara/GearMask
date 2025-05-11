@@ -17,13 +17,20 @@ GearMask is a secure and user-friendly Ethereum wallet application built with Fl
 ## Screenshots
 
 Here are some screenshots of GearMask in action:
-![Home](ScreenShots/home.jpeg)
-![Main](ScreenShots/main.jpeg)
-![Creating new wallet](ScreenShots/creating_new_wallet.jpeg)
-![Import Wallet](ScreenShots/import_wallet.jpeg)
-![Send Cryptocurrency](ScreenShots/send.jpeg)
-![Receive Cryptocurrency](ScreenShots/receive.jpeg)
-![About](ScreenShots/About.jpeg)
+## Screenshots
+
+<div align="center">
+
+<img src="ScreenShots/home.jpeg" alt="Home" width="300"/>
+<img src="ScreenShots/main.jpeg" alt="Main" width="300"/>
+<img src="ScreenShots/creating_new_wallet.jpeg" alt="Creating new wallet" width="300"/>
+<img src="ScreenShots/import_wallet.jpeg" alt="Import Wallet" width="300"/>
+<img src="ScreenShots/send.jpeg" alt="Send Cryptocurrency" width="300"/>
+<img src="ScreenShots/receive.jpeg" alt="Receive Cryptocurrency" width="300"/>
+<img src="ScreenShots/About.jpeg" alt="About" width="300"/>
+
+</div>
+
 
 ## Getting Started
 
