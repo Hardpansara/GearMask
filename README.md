@@ -14,6 +14,17 @@ GearMask is a secure and user-friendly Ethereum wallet application built with Fl
 - 📊 **Transaction History**: View your recent transactions
 - 📷 **QR Code Support**: Easy address sharing via QR codes
 
+## Screenshots
+
+Here are some screenshots of GearMask in action:
+![Home](ScreenShots/home.jpeg)
+![Main](ScreenShots/main.jpeg)
+![Creating new wallet](ScreenShots/creating_new_wallet.jpeg)
+![Import Wallet](ScreenShots/import_wallet.jpeg)
+![Send Cryptocurrency](ScreenShots/send.jpeg)
+![Receive Cryptocurrency](ScreenShots/receive.jpeg)
+![About](ScreenShots/About.jpeg)
+
 ## Getting Started
 
 ### Prerequisites
@@ -30,12 +41,18 @@ git clone https://github.com/yourusername/gearmask.git
 cd gearmask
 ```
 
-2. Install dependencies:
+2. Configuration
+
+Before running the app, configure all required API endpoints in: 
+```bash 
+lib/config/app_config.dart
+```
+3. Install dependencies:
 ```bash
 flutter pub get
 ```
 
-3. Run the app:
+4. Run the app:
 ```bash
 flutter run
 ```
@@ -113,11 +130,7 @@ For support, please open an issue in the GitHub repository or contact the develo
 
 This wallet is provided as-is without any guarantees. Users are responsible for securing their private keys and recovery phrases. Always backup your recovery phrase in a secure location.
 
-## Acknowledgments
 
-- Flutter team for the amazing framework
-- Ethereum community for the web3dart package
-- All contributors who have helped with the project
 
 ---
 
