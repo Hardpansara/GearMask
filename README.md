@@ -17,7 +17,6 @@ GearMask is a secure and user-friendly Ethereum wallet application built with Fl
 ## Screenshots
 
 Here are some screenshots of GearMask in action:
-## Screenshots
 
 <div align="center">
 
@@ -44,7 +43,7 @@ Here are some screenshots of GearMask in action:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gearmask.git
+git clone https://github.com/Hardpansara/GearMask.git
 cd gearmask
 ```
 
